@@ -1,0 +1,16 @@
+.LogoContainer{
+    /* background-color: red; */
+    width: 10vw ;
+}
+
+.nameContainer{
+    font-weight: bold;
+    background: -webkit-linear-gradient(rgb(23, 223, 250), rgb(1, 126, 175), rgb(17, 2, 82));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ 
+}
+
+.capitalLetter{
+    font-size: 2rem;
+}

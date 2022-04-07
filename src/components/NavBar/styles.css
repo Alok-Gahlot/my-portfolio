@@ -1,0 +1,13 @@
+.parentContainer{
+    width: 98vw;
+    padding: 0.9rem;
+    box-shadow: 14px 12px 14px rgb(209, 209, 209);
+    /* background-color: black; */
+    display: flex;
+    justify-content: space-around;
+    /* background-color: transparent ; */
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    border-bottom: 0.5px solid white;
+    /* opacity: 0.1; */
+}
+
